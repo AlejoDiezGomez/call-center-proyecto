@@ -43,7 +43,7 @@ Agrugue nuevas columnas al DataSet original y nuevas tablas para la creacion de 
 
 ## RESOLUCION EN 
 
- * [DAX](/Resolucion%20Integrador/Call%20Center/Resolucion%20en%20DAX.md)
- * [PANDAS](/Resolucion%20Integrador/Call%20Center/Resolucion%20en%20PANDAS.md)
- * [SQL](/Resolucion%20Integrador/Call%20Center/Resolucion%20en%20SQL.md)
+ * [DAX](/Resolucion%20en%20DAX.md)
+ * [PANDAS](/Resolucion%20en%20PANDAS.md)
+ * [SQL](/Resolucion%20en%20SQL.md)
 
