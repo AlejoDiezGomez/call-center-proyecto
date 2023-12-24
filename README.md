@@ -23,7 +23,7 @@
 * Brindar una herramienta para la gestión y la toma de decisiones a los managers del Call Center.
 
 ## Informes 
-* [INFORME COMPLETO](/Resolucion%20Integrador/Call%20Center/informearkdown.md)
+* [INFORME COMPLETO](/Resolucion%20Integrador/Call%20Center/informe.md)
 * [DOCUMENTACION DE LA RESOLUCION](/Resolucion%20Integrador/Call%20Center/Documentacion.md)
 
 ### Consideraciones Importantes
