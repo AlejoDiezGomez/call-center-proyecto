@@ -15,7 +15,7 @@
 
 ## DataSet Utilizado 
 * [DATASET](https://drive.google.com/drive/folders/1y0QiLALrKI-gMv-xWAWDffVv4_Z8kacS?usp=sharing) 
-* [Descripcion DATASET](/Resolucion%20Integrador/Call%20Center/Ejercicio%20Call%20Center%20-%20Descripción%20del%20DataSet.docx)
+* [Descripcion DATASET](Ejercicio%20Call%20Center%20-%20Descripción%20del%20DataSet.docx)
 ## Topicos a Tratar 
 
 * Eficiencia operativa, proponiendo mejoras operativas.
@@ -23,8 +23,8 @@
 * Brindar una herramienta para la gestión y la toma de decisiones a los managers del Call Center.
 
 ## Informes 
-* [INFORME COMPLETO](/Resolucion%20Integrador/Call%20Center/informe.md)
-* [DOCUMENTACION DE LA RESOLUCION](/Resolucion%20Integrador/Call%20Center/Documentacion.md)
+* [INFORME COMPLETO](informe.md)
+* [DOCUMENTACION DE LA RESOLUCION](Documentacion.md)
 
 ### Consideraciones Importantes
 Si bien en la documentacion de la resolucion se encuentran las principales herremientas y pasos seguidos para realizar el analisis de este DataSet hay pasos que se han omitido ya sea por su complejidad para traducirlos a los otros lenguajes, por que se han utilizado herramientas del programa Power Bi o por simple omision. 
